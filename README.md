@@ -19,7 +19,7 @@ A simple online library management system built with MongodDB, Express.js and No
 
 #
 
-## Functionalitites
+## Functionalities
 
 Whole app is divided into three modules.
 
